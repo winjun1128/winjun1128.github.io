@@ -1,0 +1,8 @@
+@import "reset.css";
+@import "components/header.css";
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+@import "slider.css";
+@import "intro.css";
+body{
+    font-family: "Nanum Myeongjo", serif;
+}
